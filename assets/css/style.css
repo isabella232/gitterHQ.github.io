@@ -28,8 +28,19 @@ body {
 	background:#fff url("../img/bg.png");
 }
 
+.title {
+	font-weight: 600 !important;
+	font-size: 3em !important;
+}
+
 .listing li {
 	list-style: none;
+}
+
+.listing li h1 a {
+	color: #555;
+	font-weight: 600 !important;
+	font-size: 1.5em !important;
 }
 
 .logo_svg {
